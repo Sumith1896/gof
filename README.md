@@ -2,6 +2,8 @@
 
 Institute Technical Summer Project, 2015 under WnCC, STAB, IIT Bombay.
 
+[![Join the chat at https://gitter.im/Sumith1896/gof](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Sumith1896/gof?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 To design a football engine that can be used in backend for modern football games.<br/>
 **Machake rahenge \m/**
 
