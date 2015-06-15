@@ -17,6 +17,8 @@ We also happen to be a team of four, this coincidence happens to be another lame
 ###Language
 **Python \m/**
 
+Complete Documentation [here](http://www.stab-iitb.org/itsp/documentation?id=13).
+
 ###Design patterns
 * [Observer](https://en.wikipedia.org/wiki/Observer_pattern)<br/>
 * [Strategy](http://en.wikipedia.org/wiki/Strategy_pattern)<br/>
@@ -39,3 +41,4 @@ Discuss everything in issues. Once an issue is assigned to someone, others are j
 Inspired by Anoop's [article](http://www.codeproject.com/Articles/12183/Design-Your-Soccer-Engine-and-Learn-How-To-Apply-D) in CodeProject. <br/>
 Learning motive being implementing various design patterns for object oriented system in Python.<br/>
 His blog can be found [here](http://www.amazedsaint.com/) and book [here](http://www.scribd.com/doc/16352479/Software-Design-Patterns-Made-Simple#scribd).
+

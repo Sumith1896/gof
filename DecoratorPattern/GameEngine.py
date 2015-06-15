@@ -52,11 +52,11 @@ class GameEngine:
 	"""Assume that owen got injured, and we need a new player
 	to play as our forward1"""
 	print " > OOps, Owen got injured."
-	print "Jerrard replaced Owen.. "
+	print "Gerrard replaced Owen.. "
 	"""Create a new player"""
-	jerrard = FieldPlayer("Jerrard")
-	"""Ask Jerrard to play in position of Owen"""
-	forward1.AssignPlayer(jerrard)
+	gerrard = FieldPlayer("Gerrard")
+	"""Ask Gerrard to play in position of Owen"""
+	forward1.AssignPlayer(gerrard)
 	forward1.ShootGoal()
 
 	"""-- Step 5:
